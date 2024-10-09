@@ -1,2 +1,3 @@
 # js-demo
- My first repository
+ My first Git Repository
+ Author - Anil Goswami
